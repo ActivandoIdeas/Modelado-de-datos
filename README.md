@@ -2,10 +2,18 @@
 
 El siguiente repo contiene Jupyter Notebooks con ejemplos de Estadística sobre distintos temas aplicados con librerias para de análisis en Python como:
 
-* Scipy
-* Matplotlib
-* Pandas
-* Numpy
+* **Scipy:** Computo científico
+  * https://www.scipy.org/
+* **Matplotlib:** Gráficado en 2D
+  * https://matplotlib.org/
+* **Pandas:** Estructuras de datos y análisis
+  * https://pandas.pydata.org/
+* **Numpy:** Estructuras de N dimensiones 
+  * https://numpy.org/
+* **SKlearn:** Aprendizaje automático   
+  * https://scikit-learn.org/stable/
+* **SymPy:** Matemáticas simbolicas
+  * https://www.sympy.org/en/index.html
 
 <div align="center">
   <img src="img/stats.png">
