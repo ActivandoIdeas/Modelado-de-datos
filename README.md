@@ -42,6 +42,12 @@ Algunos consejos:
   <img src="img/distributions_choice.png">
 </div>
 
+## Modelos de ML
+
+<div align="center">
+  <img src="img/machinelearning.png">
+</div>
+
 ## Fuentes
 
 * https://platzi.com/datos/
