@@ -1,4 +1,4 @@
-# Practicas de estadistica con Python
+# Practicas de estadistica y análisis de datos con Python
 
 El siguiente repo contiene Jupyter Notebooks con ejemplos de Estadística sobre distintos temas aplicados con librerias para de análisis en Python como:
 
