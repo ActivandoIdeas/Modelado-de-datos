@@ -44,10 +44,10 @@ Algunos consejos:
 
 ## Fuentes
 
-https://platzi.com/datos/
-https://relopezbriega.github.io
-https://blog.adrianistan.eu
-https://aprendeconeli.com
+* https://platzi.com/datos/
+* https://relopezbriega.github.io
+* https://blog.adrianistan.eu
+* https://aprendeconeli.com
 
 ## Contribuye con ejemplos
 
