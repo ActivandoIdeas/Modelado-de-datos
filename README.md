@@ -13,9 +13,9 @@ El siguiente repo contiene Jupyter Notebooks con ejemplos de Estadística sobre 
 
 ## Contenido complementario
 
-[Teoría sobre probabilidad y estadística](https://github.com/eocode/Love-Data-with-Python-SQL-R-Scala/tree/master/learn/Matematicas/pye)
-[Estadística con Python](https://github.com/eocode/Love-Data-with-Python-SQL-R-Scala/tree/master/learn/DataScience/StatsAndDataAnalysis)
-[Pensamiento probabilistico y matemáticas aplicadas](https://github.com/eocode/Love-Data-with-Python-SQL-R-Scala/tree/master/learn/DataScience/Matematicas%20Aplicadas)
+* [Teoría sobre probabilidad y estadística](https://github.com/eocode/Love-Data-with-Python-SQL-R-Scala/tree/master/learn/Matematicas/pye)
+* [Estadística con Python](https://github.com/eocode/Love-Data-with-Python-SQL-R-Scala/tree/master/learn/DataScience/StatsAndDataAnalysis)
+* [Pensamiento probabilistico y matemáticas aplicadas](https://github.com/eocode/Love-Data-with-Python-SQL-R-Scala/tree/master/learn/DataScience/Matematicas%20Aplicadas)
 
 ## Contribuye con ejemplos
 
