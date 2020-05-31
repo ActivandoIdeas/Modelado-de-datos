@@ -44,8 +44,9 @@ El siguiente repo contiene Jupyter Notebooks con ejemplos de Estadística sobre 
 
 * [Distribucion de Poisson](/Distribuciones/Distribución%20de%20Poisson.ipynb)
 * [Distribucion de Bernouli](/Distribuciones/Distribución%20de%20Bernoulli.ipynb)
-* [Distribucion de Binomial](/Distribuciones/Distribución%20Binomial.ipynb)
-* [Distribucion de Hipergeometrica](/Distribuciones/Distribución%20hipergeométrica.ipynb)
+* [Distribucion Binomial](/Distribuciones/Distribución%20Binomial.ipynb)
+* [Distribucion Hipergeometrica](/Distribuciones/Distribución%20hipergeométrica.ipynb)
+* [Distribucion Binomial negativa](/Distribuciones/Distribución%20binomial%20negativa.ipynb)
 
 **Continuas**
 
