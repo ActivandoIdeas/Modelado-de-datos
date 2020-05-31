@@ -1,8 +1,40 @@
 # Practicas de estadistica y análisis de datos con Python
 
-El siguiente repo contiene Jupyter Notebooks con ejemplos de Estadística sobre distintos temas aplicados con librerias para de análisis en Python como:
+El siguiente repo contiene Jupyter Notebooks con ejemplos de Estadística sobre distintos temas aplicados con librerias para el análisis de datos con Python como:
 
 ## Temario de los ejercicios
+
+## Librerías de análisis estadístico
+
+* **Scipy:** Computo científico
+  * https://www.scipy.org/
+* **Pandas:** Estructuras de datos y análisis
+  * https://pandas.pydata.org/
+* **Numpy:** Estructuras de N dimensiones 
+  * https://numpy.org/
+* **SKlearn:** Aprendizaje automático   
+  * https://scikit-learn.org/stable/
+* **SymPy:** Matemáticas simbolicas
+  * https://www.sympy.org/en/index.html
+* **Statsmodels** Modelos estadísticos, hypothesis tests, and data exploration
+
+## Librerías de visualización
+* **Seaborn**: Visualización de datos basada en Matplotlib. Capa adicional de abstracción
+  * https://seaborn.pydata.org/
+* **Matplotlib:** Gráficado en 2D
+    * https://matplotlib.org/
+
+
+## Librerías complementarias
+* **Pyreadstat** A python package to read and write sas (sas7bdat, sas7bcat, xport), spps (sav, zsav, por) and stata (dta) data files into/from pandas dataframes.
+  * https://github.com/Roche/pyreadstat
+* **Graphviz** Requerido para trabajar con gráficos y arboles de decisión
+  * https://pypi.org/project/graphviz/
+  * https://graphviz.gitlab.io/_pages/Download/Download_windows.html
+
+<div align="center">
+  <img src="img/stats.png">
+</div>
 
 ### Distribuciones de probabilidad
 
@@ -32,38 +64,6 @@ El siguiente repo contiene Jupyter Notebooks con ejemplos de Estadística sobre 
 ### Modelos de decisión
 
 * [Árboles de decisión](/Arboles%20de%20decisión/Árboles%20de%20decisión.ipynb)
-
-<div align="center">
-  <img src="img/stats.png">
-</div>
-
-## Librerías de análisis estadístico
-
-* **Scipy:** Computo científico
-  * https://www.scipy.org/
-* **Pandas:** Estructuras de datos y análisis
-  * https://pandas.pydata.org/
-* **Numpy:** Estructuras de N dimensiones 
-  * https://numpy.org/
-* **SKlearn:** Aprendizaje automático   
-  * https://scikit-learn.org/stable/
-* **SymPy:** Matemáticas simbolicas
-  * https://www.sympy.org/en/index.html
-* **Statsmodels** Modelos estadísticos, hypothesis tests, and data exploration
-
-## Librerías de visualización
-* **Seaborn**: Visualización de datos basada en Matplotlib. Capa adicional de abstracción
-  * https://seaborn.pydata.org/
-* **Matplotlib:** Gráficado en 2D
-    * https://matplotlib.org/
-
-
-## Librerías complementarias
-* **Pyreadstat** A python package to read and write sas (sas7bdat, sas7bcat, xport), spps (sav, zsav, por) and stata (dta) data files into/from pandas dataframes.
-  * https://github.com/Roche/pyreadstat
-* **Graphviz** Requerido para trabajar con gráficos y arboles de decisión
-  * https://pypi.org/project/graphviz/
-  * https://graphviz.gitlab.io/_pages/Download/Download_windows.html
 
 ## Contenido complementario
 
