@@ -42,9 +42,9 @@ El siguiente repo contiene Jupyter Notebooks con ejemplos de Estadística sobre 
 
 **Discretas**
 
-* [Distribucion de Poisson](/Distribuciones/Distribución%20de%20Poisson.ipynb)
-* [Distribucion de Bernouli](/Distribuciones/Distribución%20de%20Bernoulli.ipynb)
-* [Distribucion Binomial](/Distribuciones/Distribución%20Binomial.ipynb)
+* [Distribucion de Poisson](/Distribuciones/Distribución%20de%20poisson.ipynb)
+* [Distribucion de Bernouli](/Distribuciones/Distribución%20de%20bernoulli.ipynb)
+* [Distribucion Binomial](/Distribuciones/Distribución%20binomial.ipynb)
 * [Distribucion Hipergeometrica](/Distribuciones/Distribución%20hipergeométrica.ipynb)
 * [Distribucion Binomial negativa](/Distribuciones/Distribución%20binomial%20negativa.ipynb)
 
@@ -52,6 +52,7 @@ El siguiente repo contiene Jupyter Notebooks con ejemplos de Estadística sobre 
 
 * [Distribucion normal o de Gauss](/Distribuciones/Distribución%20normal.ipynb)
 * [Distribucion exponencial](/Distribuciones/Distribución%20exponencial.ipynb)
+* [Distribucion uniforme](/Distribuciones/Distribución%Distribución%20uniforme.ipynb)
 
 ### Modelos de predicción
 
