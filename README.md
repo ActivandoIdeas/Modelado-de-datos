@@ -6,8 +6,6 @@ El siguiente repo contiene Jupyter Notebooks con ejemplos de Estadística sobre 
 
 * **Scipy:** Computo científico
   * https://www.scipy.org/
-* **Matplotlib:** Gráficado en 2D
-  * https://matplotlib.org/
 * **Pandas:** Estructuras de datos y análisis
   * https://pandas.pydata.org/
 * **Numpy:** Estructuras de N dimensiones 
@@ -17,6 +15,13 @@ El siguiente repo contiene Jupyter Notebooks con ejemplos de Estadística sobre 
 * **SymPy:** Matemáticas simbolicas
   * https://www.sympy.org/en/index.html
 * **Statsmodels** Modelos estadísticos, hypothesis tests, and data exploration
+
+## Librerías de visualización
+* **Seaborn**: Visualización de datos basada en Matplotlib. Capa adicional de abstracción
+  * https://seaborn.pydata.org/
+* **Matplotlib:** Gráficado en 2D
+    * https://matplotlib.org/
+
 
 ## Librerías complementarias
 * **Pyreadstat** A python package to read and write sas (sas7bdat, sas7bcat, xport), spps (sav, zsav, por) and stata (dta) data files into/from pandas dataframes.
