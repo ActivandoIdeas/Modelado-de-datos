@@ -42,9 +42,9 @@ El siguiente repo contiene Jupyter Notebooks con ejemplos de Estadística sobre 
 
 **Discretas**
 
-* [Distribucion de Poisson](/Distribuciones/Distribución%20continua%20de%20Poisson.ipynb)
-* [Distribucion de Bernouli](/Distribuciones/Distribución%20discreta%20de%20Bernoulli.ipynb)
-* [Distribucion de Binomial](/Distribuciones/Distribución%20discreta%20Binomial.ipynb)
+* [Distribucion de Poisson](/Distribuciones/Distribución%20de%20Poisson.ipynb)
+* [Distribucion de Bernouli](/Distribuciones/Distribución%20de%20Bernoulli.ipynb)
+* [Distribucion de Binomial](/Distribuciones/Distribución%20Binomial.ipynb)
 * [Distribucion de Hipergeometrica](/Distribuciones/Distribución%20hipergeométrica.ipynb)
 
 **Continuas**
