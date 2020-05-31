@@ -21,6 +21,9 @@ El siguiente repo contiene Jupyter Notebooks con ejemplos de Estadística sobre 
 ## Librerías complementarias
 * **Pyreadstat** A python package to read and write sas (sas7bdat, sas7bcat, xport), spps (sav, zsav, por) and stata (dta) data files into/from pandas dataframes.
   * https://github.com/Roche/pyreadstat
+* **Graphviz** Requerido para trabajar con gráficos y arboles de decisión
+  * https://pypi.org/project/graphviz/
+  * https://graphviz.gitlab.io/_pages/Download/Download_windows.html
 
 <div align="center">
   <img src="img/stats.png">
