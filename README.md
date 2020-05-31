@@ -2,6 +2,8 @@
 
 El siguiente repo contiene Jupyter Notebooks con ejemplos de Estadística sobre distintos temas aplicados con librerias para de análisis en Python como:
 
+## Librerías de análisis estadístico
+
 * **Scipy:** Computo científico
   * https://www.scipy.org/
 * **Matplotlib:** Gráficado en 2D
@@ -14,6 +16,11 @@ El siguiente repo contiene Jupyter Notebooks con ejemplos de Estadística sobre 
   * https://scikit-learn.org/stable/
 * **SymPy:** Matemáticas simbolicas
   * https://www.sympy.org/en/index.html
+* **Statsmodels** Modelos estadísticos, hypothesis tests, and data exploration
+
+## Librerías complementarias
+* **Pyreadstat** A python package to read and write sas (sas7bdat, sas7bcat, xport), spps (sav, zsav, por) and stata (dta) data files into/from pandas dataframes.
+  * https://github.com/Roche/pyreadstat
 
 <div align="center">
   <img src="img/stats.png">
