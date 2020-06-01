@@ -28,7 +28,8 @@ Recopilación de ejemplos de Estadística, análisis de datos y ML sobre distint
   * https://scikit-learn.org/stable/
 * **SymPy:** Matemáticas simbolicas
   * https://www.sympy.org/en/index.html
-* **Statsmodels** Modelos estadísticos, hypothesis tests, and data exploration
+* **Statsmodels** Modelos estadísticos, hypothesis tests, and data exploration  
+  * https://www.statsmodels.org/stable/index.html
 
 ## Librerías de visualización
 * **Seaborn**: Visualización de datos basada en Matplotlib. Capa adicional de abstracción
@@ -80,6 +81,8 @@ Algunos consejos:
 * https://blog.adrianistan.eu
 * https://aprendeconeli.com
 * https://www.aprendemachinelearning.com/
+* https://github.com/urcuqui/Ciencia-de-datos-ICESI
+* https://github.com/donnemartin/interactive-coding-challenges
 
 ## Contribuye con ejemplos
 
