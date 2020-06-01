@@ -39,6 +39,7 @@ El siguiente repo contiene Jupyter Notebooks con ejemplos de Estadística sobre 
 ### Distribuciones de probabilidad
 
 * [Distribuciones de probabilidad](/Distribuciones/Distribuciones.ipynb)
+* [Estandarizacion, varianza y covarianza](/Distribuciones/Estandarización,%20covarianza%20y%20correlación.ipynb)
 
 **Discretas**
 
