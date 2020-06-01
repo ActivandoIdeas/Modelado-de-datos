@@ -82,7 +82,7 @@ Algunos consejos:
 
 ## Contribuye con ejemplos
 
-Enviame un pullrequest con un nuevo notebook con ejemplos detallados sobre algún tema de interés
+Enviame un pullrequest con un nuevo notebook con ejemplos detallados sobre algún tema de interés o contactame en las redes como eocode
 
 ## Licencia
 
