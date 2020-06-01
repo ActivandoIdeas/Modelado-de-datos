@@ -1,8 +1,20 @@
-# Practicas de estadistica y análisis de datos con Python
+# Banco de ejercicios de estadistica y análisis de datos con Python y R
 
-El siguiente repo contiene Jupyter Notebooks con ejemplos de Estadística sobre distintos temas aplicados con librerias para el análisis de datos con Python como:
+> **Objetivo**
+Recopilación de ejemplos de Estadística, análisis de datos y ML sobre distintos temas aplicados con librerias de Python y R:
 
 ## Temario de los ejercicios
+
+* [Fundamentos de Estadística](/Fundamentos%20de%20estadística/)
+* [Estadísticos análiticos](/Estadísticos%20Análiticos/)
+* [Distribuciones de probabilidad](/Distribuciones/)
+* [Hipótesis](/Hipotesis/)
+* [Regresiones](/Regresiones/)
+* [Árboles de decisión](/Arboles%20de%20decisión/)
+
+<div align="center">
+  <img src="img/stats.png">
+</div>
 
 ## Librerías de análisis estadístico
 
@@ -31,42 +43,6 @@ El siguiente repo contiene Jupyter Notebooks con ejemplos de Estadística sobre 
 * **Graphviz** Requerido para trabajar con gráficos y arboles de decisión
   * https://pypi.org/project/graphviz/
   * https://graphviz.gitlab.io/_pages/Download/Download_windows.html
-
-<div align="center">
-  <img src="img/stats.png">
-</div>
-
-### Distribuciones de probabilidad
-
-* [Distribuciones de probabilidad](/Distribuciones/Distribuciones.ipynb)
-* [Estandarizacion, varianza y covarianza](/Distribuciones/Estandarización,%20covarianza%20y%20correlación.ipynb)
-
-**Discretas**
-
-* [Distribucion de Poisson](/Distribuciones/Distribución%20de%20poisson.ipynb)
-* [Distribucion de Bernouli](/Distribuciones/Distribución%20de%20bernoulli.ipynb)
-* [Distribucion Binomial](/Distribuciones/Distribución%20binomial.ipynb)
-* [Distribucion Hipergeometrica](/Distribuciones/Distribución%20hipergeométrica.ipynb)
-* [Distribucion Binomial negativa](/Distribuciones/Distribución%20binomial%20negativa.ipynb)
-
-**Continuas**
-
-* [Distribucion normal o de Gauss](/Distribuciones/Distribución%20normal.ipynb)
-* [Distribucion exponencial](/Distribuciones/Distribución%20exponencial.ipynb)
-* [Distribucion uniforme](/Distribuciones/Distribución%Distribución%20uniforme.ipynb)
-
-### Modelos de predicción
-
-* [Regresión líneal con sklearn](/Regresiones/Regresión%20líneal%20sklean.ipynb)
-* [Regresión líneal con statsmodels](/Regresiones/Regresión%20líneal%20con%20statsmodels.ipynb)
-* [Regresión líneal con statsmodels 2](/Regresiones/Regresión%20líneal%20con%20statsmodel%202.ipynb)
-* [Regresión líneal con statsmodels 3](/Regresiones/Regresión%20líneal%20con%20statsmodel%203.ipynb)
-* [Regresión logistica](/Regresiones/Regresión%20logística.ipynb)
-
-
-### Modelos de decisión
-
-* [Árboles de decisión](/Arboles%20de%20decisión/Árboles%20de%20decisión.ipynb)
 
 ## Contenido complementario
 
