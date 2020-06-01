@@ -79,6 +79,7 @@ Algunos consejos:
 * https://relopezbriega.github.io
 * https://blog.adrianistan.eu
 * https://aprendeconeli.com
+* https://www.aprendemachinelearning.com/
 
 ## Contribuye con ejemplos
 
