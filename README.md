@@ -97,11 +97,7 @@ Algunos consejos:
 
 ## Contribuye con ejemplos
 
-Enviame un pullrequest con un nuevo notebook con ejemplos detallados sobre algún tema de interés o contáctanos para poder colaborar
-
-### Colaboradores
-
-* [Elías Ojeda Medina (eocode en redes sociales)](https://github.com/eocode)
+Enviame un pullrequest con un nuevo notebook con ejemplos detallados sobre algún tema de interés o contactame en las redes como eocode
 
 ## Licencia
 
