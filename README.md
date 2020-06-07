@@ -16,7 +16,7 @@ Recopilación de ejemplos de Estadística, análisis de datos y ML aplicados con
   <img src="img/stats.png">
 </div>
 
-## Librerías de análisis estadístico
+## Librerías Python
 
 * **Scipy:** Computo científico
   * https://www.scipy.org/
@@ -30,12 +30,23 @@ Recopilación de ejemplos de Estadística, análisis de datos y ML aplicados con
   * https://www.sympy.org/en/index.html
 * **Statsmodels** Modelos estadísticos, hypothesis tests, and data exploration  
   * https://www.statsmodels.org/stable/index.html
+* **TensorFlow:** TensorFlow ofrece herramientas para la definición y entrenamiento de redes neuronales.
+  * https://www.tensorflow.org/
+* **Keras:** Keras se ofrece como interfaz de alto nivel para librerías como TensorFlow, Theano o CNTK.
+  * https://keras.io/
+* **NLTK:** Librería de procesamiento de lenguaje natural, con multitud de herramientas orientadas al análisis de textos.
+  * https://www.nltk.org/
+* **XGBoost, LightGBM:** Librerías que implementan los algoritmos homónimos, fundamentales en entornos tabulares.
+  * https://lightgbm.readthedocs.io/en/latest/
+  * https://xgboost.readthedocs.io/en/latest/
 
 ## Librerías de visualización
 * **Seaborn**: Visualización de datos basada en Matplotlib. Capa adicional de abstracción
   * https://seaborn.pydata.org/
 * **Matplotlib:** Gráficado en 2D
     * https://matplotlib.org/
+* **Bokeh:** Tercera librería de visualización de esta lista, aunque en este caso no está basada en Matplotlib. Bokeh ofrece visualizaciones interactivas muy atractivas y útiles.
+  * https://docs.bokeh.org/en/latest/
 
 
 ## Librerías complementarias
