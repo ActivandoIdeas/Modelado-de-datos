@@ -1,7 +1,7 @@
-# Banco de ejercicios de estadistica y análisis de datos con Python y R
+# Analizando datos con modelos estadísticos, matemáticos y de ML usando Python y R
 
 > **Objetivo**
-Recopilación de ejemplos de Estadística, análisis de datos y ML sobre distintos temas aplicados con librerias de Python y R:
+Recopilación de ejemplos de Estadística, análisis de datos y ML aplicados con librerias de Python y R
 
 ## Temario de los ejercicios
 
