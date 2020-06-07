@@ -102,7 +102,7 @@ Enviame un pullrequest con un nuevo notebook con ejemplos detallados sobre algú
 ### Colaboradores
 
 * [Elías Ojeda Medina (eocode en redes sociales)](https://github.com/eocode)
-
+* [Cristhian Castillo (KorKux) ](https://github.com/korKux1)
 ## Licencia
 
 GNU General Public License v3.0
